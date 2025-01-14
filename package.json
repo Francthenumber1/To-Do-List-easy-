@@ -1,5 +1,5 @@
 {
-  "name": "to-do-list(easy)",
+  "name": "to-do-list-easy",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -36,11 +36,13 @@
     "is-number": "^7.0.0",
     "micromatch": "^4.0.8",
     "node-addon-api": "^7.1.1",
+    "parcel": "^2.13.3",
     "picomatch": "^2.3.1",
     "readdirp": "^4.1.1",
     "source-map-js": "^1.2.1",
     "to-regex-range": "^5.0.1",
     "typescript": "^5.7.3",
-    "typescript-eslint": "^8.20.0"
+    "typescript-eslint": "^8.20.0",
+    "yarn": "^1.22.22"
   }
 }
